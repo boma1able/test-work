@@ -1,0 +1,95 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  background-color: #fff;
+}
+
+.logo {
+  text-align: center;
+}
+
+nav ul li a {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+
+.login-panel {
+  margin-top: 13px;
+  float: right;
+}
+
+.login-panel a {
+  font-size: 1.2em;
+  color: #777;
+  padding: 0 7px 7px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.login-panel a:hover {
+  color: #000;
+}
+
+/* content */
+.post {
+  padding: 15px;
+  border-bottom: 1px dotted #ccc;
+}
+
+.post:last-child {
+  border: none;
+}
+
+.post p {
+  padding: 15px;
+}
+
+/* sidebar */
+
+
+.widget {
+  display: block;
+}
+
+.popular-post-widget h3 {
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 15px 10px;
+}
+
+.recent-comment-widget h3 {
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 15px 10px;
+}
+
+.categories-widget h3 {
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 15px 10px;
+}
+
+
+/* footer */
+.footer {
+  border-top: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.copy {
+  float: left;
+}
+
+.owner {
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
